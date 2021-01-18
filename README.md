@@ -1,68 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#  关于博主
+- 姓名:丁时一
+- 年龄:21
+- 爱好:动漫，科技，代码，守望先锋。
+- 家住自贡，就读于西华大学软件工程，==**单身,单身,单身**==,就读于西华大学软件工程,大三学生党,持续与守望先锋,搞笑段子,代码一起活着。没事的时候就对着博客发呆:"我可以加一些什么功能,要怎么做呢,有时候发呆一个小时也没想出来"博主真的很想早点工作,早点独立！
 
-## Available Scripts
+----
 
-In the project directory, you can run:
+# 关于本站
+## 灵感来源[Youngster_yj's Blog](https://jsfan.net)
+- **之前也用Vue+Node+Mysql做过一个小站[shyding](http://www.dingshiyi.top/vue),正好最近也在学React,就想把学到的运用到实际中来,所以！！！此博客就诞生啦~~**
+- **博客名字为 ==Loneliness==,意味==单身（哈哈哈）==，全部事情压在心底。**
+- **博主希望此博客能为博主积累技术，也能结识更多的各方面爱好者**
+- **当您看到此处时，博主很开心又多了一位博主成长历程的见证者**
+- **本网站于2020年11月份左右上线，主要用于记录与分享个人学习心得。**
 
-### `npm start`
+# 技术栈
+- **client:`React` + `Ant Design` + `Redux` + `Hooks`**
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **admin:`Vue` + `Element` + `Vue-Router`**
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- **server:`Node` + `Express` +`Mysql`**
 
-### `npm test`
+# 联系方式
+- **QQ : 1559298665**
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **微信 : DSY1559298665**
 
-### `npm run build`
+- **GitHub: [DingShiYi](https://github.com/)**
+- **服务器由阿里云提供支持，感谢阿里云的[云翼计划](https://developer.aliyun.com/plan/grow-up1spm=5176.10695662.1173276.1.3550315cSQLSmv)!**
+- **本站和后台的图片全部采用==腾讯COS对象存储==,==使用jwt鉴权==**
+- **本站前后端均为个人书写，个人水平有限，大佬路过还请多多批评指正。**
+- **[【Loneliness后台管理系统】](http://www.dingshiyi.top/dist),==均可使用QQ邮箱验证登录==,功能正在完善中**
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 特别说明
+- **本站所有内容仅代表个人观点，和任何组织或个人无关。**
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- **本站内容仅供学习交流，请勿用于任何形式商业行为。**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **本站如无意中侵犯了某些组织或个人的知识产权，请速告之，本站定及时处理。**
 
-### `npm run eject`
+# 一些话
+**遇到了许多挫折，但也在不断的努力，只有自己够优秀，才不用去看别人眼色，才能去做一些自己想做的事情，才不会被别人决定你的去向，努力活成自己想要的样子**
+![K3DM71P5FCL8P`4G.png](https://blog-1303885568.cos.ap-chengdu.myqcloud.com/img/DSY-1604456605965.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# 在路上
+![image.JPEG2000](https://blog-1303885568.cos.ap-chengdu.myqcloud.com/img/DSY-1610436872617.JPEG2000)
