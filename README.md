@@ -17,7 +17,6 @@
 ----
 
 # 关于本站
-## 灵感来源[Youngster_yj's Blog](https://jsfan.net)
 - **之前也用Vue+Node+Mysql做过一个小站[shyding](http://www.dingshiyi.top/vue),正好最近也在学React,就想把学到的运用到实际中来,所以！！！此博客就诞生啦~~**
 - **博客名字为 ==Loneliness==,意味==单身（哈哈哈）==，全部事情压在心底。**
 - **博主希望此博客能为博主积累技术，也能结识更多的各方面爱好者**
@@ -53,5 +52,3 @@
 **遇到了许多挫折，但也在不断的努力，只有自己够优秀，才不用去看别人眼色，才能去做一些自己想做的事情，才不会被别人决定你的去向，努力活成自己想要的样子**
 ![K3DM71P5FCL8P`4G.png](https://blog-1303885568.cos.ap-chengdu.myqcloud.com/img/DSY-1604456605965.png)
 
-# 在路上
-![image.JPEG2000](https://blog-1303885568.cos.ap-chengdu.myqcloud.com/img/DSY-1610436872617.JPEG2000)
