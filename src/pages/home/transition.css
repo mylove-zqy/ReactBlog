@@ -1,0 +1,28 @@
+.item-enter {
+  opacity: 0;
+  transform: scale(0.6);
+}
+
+.item-enter-active {
+  opacity: 1;
+  transition: all 0.7s;
+  transform: scale(1);
+}
+
+.item-enter-done {
+  color: red;
+}
+
+.item-exit {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.item-exit-active {
+  opacity: 0;
+  transform: scale(0.6);
+  transition: all 0.7s;
+}
+.item-exit-done {
+  opacity: 0;
+}

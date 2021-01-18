@@ -1,0 +1,5 @@
+//抽屉效果
+export const CHANGE_LEFT_VISIBLE = "CHANGE_LEFT_VISIBLE"
+
+//友链的信息
+export const CHANGE_FRIEND_LINK = "CHANGE_FRIEND_LINK"

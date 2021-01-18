@@ -1,0 +1,13 @@
+//头部是否隐藏 
+export const CHANGE_HEADER_IS_HIDDEN = "CHANGE_HEADER_IS_HIDDEN"
+
+
+//头部背景颜色
+export const CHANGE_HEADER_BACK_COLOR = "CHANGE_HEADER_BACK_COLOR"
+
+//头部字体颜色
+export const CHANGE_HEADER_COLOR = "CHANGE_HEADER_COLOR"
+
+
+//头部字体 Hover颜色
+export const CHANGE_HEADER_HOVER_COLOR = "CHANGE_HEADER_HOVER_COLOR"

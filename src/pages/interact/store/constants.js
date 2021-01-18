@@ -1,0 +1,5 @@
+//友链的信息
+export const CHANGE_FRIEND_LINK = "CHANGE_FRIEND_LINK"
+//修改评论的数据
+export const CHANGE_INTERACT_COMMENTS = "CHANGE_INTERACT_COMMENTS"
+

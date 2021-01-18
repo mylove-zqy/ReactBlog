@@ -1,0 +1,16 @@
+export const CHANGE_COUNTER = "CHANGE_COUNTER"
+
+//改变文章列表
+export const CHANGE_ARTICLES_ACTION = "CHANGE_ARTICLES_ACTION"
+
+//改变文章标题颜色
+export const CHANGE_HOME_FONT_COLOR = "CHANGE_HOME_FONT_COLOR"
+
+//改变文章总数
+export const CHANGE_ARTICLE_TOTAL = "CHANGE_ARTICLE_TOTAL"
+
+//分页页数
+export const CHANGE_HOME_PAGE="CHANGE_HOME_PAGE"
+
+//改变标签
+export const CHANGE_HOME_TAG_ID="CHANGE_HOME_TAG_ID"

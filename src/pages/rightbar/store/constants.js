@@ -1,0 +1,2 @@
+//改变标签
+export const CHANGE_RIGHT_TAGS="CHANGE_RIGHT_TAGS"
