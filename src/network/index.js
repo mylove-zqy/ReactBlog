@@ -4,8 +4,7 @@ export default function request(option) {
   return new Promise((resolve, reject) => {
     // 1.创建axios的实例
     const instance = Axios.create({
-      // baseURL: "http://192.168.43.59:9001/",
-      baseURL: "http://47.98.47.212:9001/",
+      baseURL: "http://192.168.43.59:3001/",
       timeout: 10000,
     });
 
